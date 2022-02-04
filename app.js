@@ -1,6 +1,6 @@
 
 
-document.getElementById("btn"),addEventListener("click", function(){
+document.getElementById("btn").addEventListener("click", function(){
 
     let rgb1 = Math.round(Math.random()*255);
     let rgb2 = Math.round(Math.random()*255);
